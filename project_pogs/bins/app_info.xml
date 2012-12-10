@@ -1,0 +1,36 @@
+<app_info> 
+    <app> 
+        <name>magphys_wrapper</name> 
+        <user_friendly_name>fitsedwrapper</user_friendly_name> 
+        <non_cpu_intensive>0</non_cpu_intensive> 
+    </app> 
+    <file_info> 
+        <name>wrapper</name> 
+        <executable/> 
+    </file_info> 
+    <file_info> 
+        <name>fit_sed</name> 
+        <executable/> 
+    </file_info> 
+    <file_info> 
+        <name>concat</name> 
+        <executable/> 
+    </file_info> 
+    <app_version> 
+        <app_name>magphys_wrapper</app_name> 
+        <version_num>310</version_num> 
+        <file_ref> 
+            <file_name>wrapper</file_name> 
+            <open_name>wrapper</open_name> 
+            <main_program/> 
+        </file_ref> 
+        <file_ref> 
+            <file_name>fit_sed</file_name> 
+            <open_name>fit_sed</open_name> 
+        </file_ref> 
+        <file_ref> 
+            <file_name>concat</file_name> 
+            <open_name>concat</open_name> 
+        </file_ref> 
+    </app_version> 
+</app_info>
