@@ -1,7 +1,0 @@
-PKG=CSWboinclibs
-NAME=boinclibs - BOINC volunteer distributed computing libraries
-VERSION=7.1.0,REV=2012.12.08_r
-CATEGORY=application
-VENDOR=http://boinc.berkeley.edu/ packaged for CSW by root 
-HOTLINE=http://www.opencsw.org/
-EMAIL=root@opencsw.org

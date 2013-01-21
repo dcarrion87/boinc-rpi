@@ -1,4 +1,0 @@
-#! /bin/sh
-
-xgettext --keyword=_ -C -o ../locale/templates/BOINC-Manager.pot *.cpp msw/*.cpp mac/*.cpp gtk/*.cpp
- 

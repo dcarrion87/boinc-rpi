@@ -1,8 +1,0 @@
-libboinc_la-unix_util.lo: unix_util.cpp unix_util.h ../config.h \
- ../version.h
-
-unix_util.h:
-
-../config.h:
-
-../version.h:
