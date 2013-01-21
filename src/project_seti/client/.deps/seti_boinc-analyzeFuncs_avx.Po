@@ -1,0 +1,6 @@
+seti_boinc-analyzeFuncs_avx.o: vector/analyzeFuncs_avx.cpp \
+ ../sah_config.h /mnt/usb/boinc-rpi/boinc/boinc_7.1.0/lib/std_fixes.h
+
+../sah_config.h:
+
+/mnt/usb/boinc-rpi/boinc/boinc_7.1.0/lib/std_fixes.h:

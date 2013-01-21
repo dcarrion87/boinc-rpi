@@ -1,0 +1,16 @@
+i pkginfo
+i copyright
+i depend
+d none /usr/local/lib 0755 root bin
+f none /usr/local/lib/libboinc_api.so.6.12.34 0755 root bin
+s none /usr/local/lib/libboinc_api.so.6=libboinc_api.so.6.12.34
+s none /usr/local/lib/libboinc_api.so=libboinc_api.so.6.12.34
+f none /usr/local/lib/libboinc_graphics2.so.6.12.34 0755 root bin
+s none /usr/local/lib/libboinc_graphics2.so.6=libboinc_graphics2.so.6.12.34
+s none /usr/local/lib/libboinc_graphics2.so=libboinc_graphics2.so.6.12.34
+f none /usr/local/lib/libboinc.so.6.12.34 0755 root bin
+s none /usr/local/lib/libboinc.so.6=libboinc.so.6.12.34
+s none /usr/local/lib/libboinc.so=libboinc.so.6.12.34
+f none /usr/local/lib/libboinc_zip.so.6.12.34 0755 root bin
+s none /usr/local/lib/libboinc_zip.so.6=libboinc_zip.so.6.12.34
+s none /usr/local/lib/libboinc_zip.so=libboinc_zip.so.6.12.34

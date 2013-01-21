@@ -1,0 +1,17 @@
+<app_info>
+    <app>
+        <name>setiathome_enhanced</name>
+    </app>
+    <file_info>
+        <name>setiathome_enhanced</name>
+        <executable/>
+    </file_info>
+    <app_version>
+        <app_name>setiathome_enhanced</app_name>
+        <version_num>603</version_num>
+        <file_ref>
+            <file_name>setiathome_enhanced</file_name>
+            <main_program/>
+        </file_ref>
+    </app_version>
+</app_info>
