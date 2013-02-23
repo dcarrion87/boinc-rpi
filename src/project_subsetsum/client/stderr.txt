@@ -1,0 +1,11 @@
+17:43:01 (3770): Can't open init data file - running in standalone mode
+ERROR, wrong command line arguments.
+USAGE:
+	./subset_sum <M> <N> [<i> <count>]
+
+argumetns:
+	<M>      :   The maximum value allowed in the sets.
+	<N>      :   The number of elements allowed in a set.
+	<i>      :   (optional) start at the <i>th generated subset.
+	<count>  :   (optional) only test <count> subsets (starting at the <i>th subset).
+17:43:01 (3770): called boinc_finish

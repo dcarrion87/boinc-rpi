@@ -1,0 +1,30 @@
+/*General Items*/
+/*Stuff ported over from main.css on the main site*/
+body {font-family: verdana; font-size: 13px; margin: 5px 10px;}
+a, a:link, a:visited, a:active {color: #0069A1;}
+
+/*Specific Classes*/
+/*Reoccurring Classes*/
+.navigation {background-color: lightGrey; border: 2px solid #EEE; padding: 5px; width: 1000px;}
+.content {font-size: 13px; padding: 5px; border: 2px solid lightBlue; width: 1000px; background-color: #DFF0FF;}
+.page_title {font-size: 18px;}
+/*Main page*/
+.title {font-size: 20px;}
+.navigationmain {background-color: lightGrey; border: 2px solid #EEE; padding: 5px; width: 1008px}
+.description td {background-color: #F0F8FF; font-size: 13px; padding: 5px; width: 1008px}
+.layout td {font-size: 13px; padding: 5px;}
+	.header {font-size: 18px; padding-bottom: 5px;}
+	.recent {background-color: #DFF0FF; border: 2px solid lightBlue; padding: 5px; width: 1000px;}
+        .d0 {background-color: #DFF0FF; color: black;}
+        .d1 {background-color: #F8F8FF; color: black;}
+		.recentfeed {width: 1000px;}
+		.recentfeed td {padding: 2px;}
+		.tablehead          {width: 115px; border-bottom: 1px solid #000000; font-weight: bold;}
+		.max_value          {width: 50px;}
+		.subset_size        {width: 50px;}
+		.slices             {width: 50px;}
+		.completed          {width: 50px;}
+		.errors             {width: 50px;}
+		.failed_set_count   {width: 50px;}
+		.details            {width: 50px;}
+
